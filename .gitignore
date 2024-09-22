@@ -1,4 +1,6 @@
-venv/
+.venv/
+model - Copy.py
+model - Copy.pkl
 
 *.pyc
 __pycache__/
